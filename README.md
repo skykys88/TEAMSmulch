@@ -5,6 +5,7 @@ Currently on v0.2.1 (8.2 Loudspeakers), last appearance at Bangkok Kunsthalle Ap
 New Functionality: Playlist (Up to 16 Stereo Files)
 
 Upcoming iteration: TEAMSmulch v0.31.2 for TagTEAMS 2026
+
 Past Appearances: TICF2025, Bangkok Kunsthalle evals, Bangkok Kunsthalle Aphex Twin Listening Session
 
 © 2025 Sippapas Thienwiwat
